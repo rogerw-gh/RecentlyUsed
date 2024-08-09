@@ -6,6 +6,12 @@
 #  Created 2022 Roger Whiteley rogerw-gh
 #
 #  Updated August 2024 with fixes for Ubuntu LTS 22.04
+#
+#
+# N.B. the github project was created using Unlicence, but the code I created
+#  already had the GNU license - eitherway, use as you see fit, but I don't
+#  claim any credit for the original implementation.
+#
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
